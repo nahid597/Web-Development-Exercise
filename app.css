@@ -1,0 +1,25 @@
+header,
+footer {
+    background-color: aqua;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+}
+
+h2,
+h1 {
+    color: rgb(196, 86, 43);
+}
+
+.title {
+    color: chocolate;
+}
+
+nav {
+    background-color: black;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
